@@ -14,15 +14,12 @@ function Footer() {
 
           {/* Logo */}
           <div>
-            <div className="flex justify-start items-end gap-5">
-              <img className="w-8 rounded-full" src="../src/assets/zisan.jpg" alt="Zisan" />
-              <a
+            <a
               href="/"
               className="text-xl font-extrabold tracking-tight text-white"
             >
               MD<span className="text-[#22C55E]">.</span>
             </a>
-            </div>
 
             <p className="text-sm text-slate-600 mt-5">
               MERN Stack Web Developer
