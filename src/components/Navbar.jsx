@@ -231,7 +231,7 @@ function Navbar() {
               </p>
 
               <p className="mt-3 text-sm leading-6 text-slate-400">
-                Building modern, responsive and functional web applications
+                Building modern, responsive & functional web applications
                 with modern JavaScript technologies.
               </p>
             </div>
