@@ -103,7 +103,7 @@ function Navbar() {
 
               <span className="relative block h-11 w-11 overflow-hidden rounded-full border border-white/15 bg-[#111827] transition-all duration-300 group-hover:scale-105 group-hover:border-[#22C55E]/50">
                 <img
-                  src="../src/assets/zisan.jpg"
+                  src="./assets/zisan.jpg"
                   alt="Md Zisan Uddin"
                   className="h-full w-full object-cover cursor-pointer"
                 />
@@ -132,7 +132,7 @@ function Navbar() {
             >
               <span className="relative block h-10 w-10 overflow-hidden rounded-full border border-white/15 bg-[#111827] transition-all duration-300 group-active:scale-95">
                 <img
-                  src="../src/assets/zisan.jpg"
+                  src="./assets/zisan.jpg"
                   alt="Md Zisan Uddin"
                   className="h-full w-full object-cover"
                 />
@@ -206,7 +206,7 @@ function Navbar() {
             {/* Image */}
             <div className="relative overflow-hidden rounded-2xl border border-white/10 bg-[#0B0F14]">
               <img
-                src="../src/assets/zisan.jpg"
+                src="./assets/zisan.jpg"
                 alt="Md Zisan Uddin"
                 className="h-auto max-h-[65vh] w-full object-cover"
               />
